@@ -88,3 +88,15 @@ Alejandra Madrid – Informática 1, Universidad de Antioquia.
 - PyMongo
 - Expresiones regulares (Regex)
 - Archivos TXT, CSV y JSON
+
+  ## Instalación y ejecución
+
+1. Instalar Python 3.
+2. Instalar las dependencias:
+
+   pip install -r requirements.txt
+
+3. Configurar las credenciales de MongoDB Atlas en el archivo .env.
+4. Ejecutar el programa:
+
+   python main.py
