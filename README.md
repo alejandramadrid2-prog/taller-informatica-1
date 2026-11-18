@@ -100,3 +100,15 @@ Alejandra Madrid – Informática 1, Universidad de Antioquia.
 4. Ejecutar el programa:
 
    python main.py
+   
+## Funcionalidades del sistema
+
+- Generación aleatoria de registros de signos vitales.
+- Ingreso manual de registros.
+- Validación de datos mediante expresiones regulares.
+- Ordenamiento por frecuencia cardíaca.
+- Visualización y consulta de registros.
+- Exportación e importación de archivos TXT, CSV y JSON.
+- Conexión con MongoDB Atlas.
+- Inserción y consulta de documentos en MongoDB.
+- Registro de operaciones y errores en log.txt.
