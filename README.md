@@ -113,13 +113,3 @@ Alejandra Madrid – Informática 1, Universidad de Antioquia.
 - Inserción y consulta de documentos en MongoDB.
 - Registro de operaciones y errores en log.txt.
 
-## Estructura del proyecto
-
-- main.py: menú principal y ejecución del sistema.
-- datos.py: generación y ordenamiento de registros.
-- archivos.py: importación y exportación de archivos.
-- validacion.py: validación de datos mediante Regex.
-- mongo_db.py: conexión y operaciones con MongoDB.
-- sistema.py: registro de actividades y estructura de carpetas.
-- data/: archivos TXT, CSV y JSON.
-- log.txt: historial de operaciones.
