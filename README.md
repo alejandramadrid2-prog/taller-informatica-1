@@ -80,4 +80,11 @@ Todas las acciones y errores quedan registrados en `log.txt`.
 
 ## Autor
 
-Nombre del estudiante – Informática 1, Universidad de Antioquia.
+Alejandra Madrid – Informática 1, Universidad de Antioquia.
+## Tecnologías utilizadas
+
+- Python 3
+- MongoDB Atlas
+- PyMongo
+- Expresiones regulares (Regex)
+- Archivos TXT, CSV y JSON
