@@ -1,0 +1,28 @@
+[2026-11-17 20:26:38] [INFO] Estructura de carpetas verificada/creada (data/txt, data/csv, data/json)
+[2026-11-17 20:26:38] [INFO] Programa iniciado
+[2026-11-17 20:28:08] [INFO] Generados 50 registros aleatorios y ordenados por FC
+[2026-11-17 20:30:46] [INFO] Estructura de carpetas verificada/creada (data/txt, data/csv, data/json)
+[2026-11-17 20:30:46] [INFO] Programa iniciado
+[2026-11-17 20:33:08] [INFO] Estructura de carpetas verificada/creada (data/txt, data/csv, data/json)
+[2026-11-17 20:33:08] [INFO] Programa iniciado
+[2026-11-17 20:35:18] [INFO] Estructura de carpetas verificada/creada (data/txt, data/csv, data/json)
+[2026-11-17 20:35:18] [INFO] Programa iniciado
+[2026-11-17 20:35:32] [INFO] Generados 50 registros aleatorios y ordenados por FC
+[2026-11-17 20:35:40] [INFO] Validación: 50 válidos, 0 inválidos
+[2026-11-17 20:35:41] [INFO] TXT guardado: datos_ordenados.txt (50 registros)
+[2026-11-17 20:35:41] [INFO] CSV guardado: datos_ordenados.csv (50 registros)
+[2026-11-17 20:35:41] [INFO] JSON exportado: datos.json
+[2026-11-17 20:35:41] [INFO] Archivo movido: datos.json -> data\json\datos.json
+[2026-11-17 20:35:41] [INFO] Archivo movido: datos_ordenados.csv -> data\csv\datos_ordenados.csv
+[2026-11-17 20:35:41] [INFO] Archivo movido: datos_ordenados.txt -> data\txt\datos_ordenados.txt
+[2026-11-17 20:36:10] [INFO] Conexión exitosa a MongoDB (BD: taller_biomedico, colección: signos vitales)
+[2026-11-17 20:41:33] [INFO] MongoDB: 50 registros procesados (50 nuevos, 0 actualizados)
+[2026-11-17 20:42:42] [INFO] Consulta: promedio de FC = 98.44 ppm (50 documentos)
+[2026-11-17 20:42:42] [INFO] Consulta: SpO2 < 94 -> 25 documentos
+[2026-11-17 20:42:42] [INFO] JSON exportado: resultados_mongo.json
+[2026-11-17 20:42:42] [INFO] Archivo movido: resultados_mongo.json -> data\json\resultados_mongo.json
+[2026-11-17 20:53:48] [INFO] Consulta por ID ID-034: encontrado
+[2026-11-17 20:57:29] [INFO] Registro ingresado manualmente: ID-051
+[2026-11-17 21:00:33] [INFO] JSON importado: datos.json (50 registros)
+[2026-11-17 21:01:50] [INFO] CSV importado: datos_ordenados.csv (50 registros)
+[2026-11-17 21:03:07] [INFO] CSV importado: datos_ordenados.csv (50 registros)
